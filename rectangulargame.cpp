@@ -19,3 +19,4 @@ int main()
     res = 1ll*a*b;
     cout << res;
 }
+
